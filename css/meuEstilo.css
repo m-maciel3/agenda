@@ -1,0 +1,93 @@
+#corpoPagina{
+    background-image: url("/img/fundoLogin.jpeg");
+    background-color: rgb(221, 189, 250);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#corpoMenu{
+    background-image: url("/img/fundoLogin.jpeg");
+    background-color: rgb(221, 189, 250);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+  
+
+#paginaCadastroLogin{
+    background-image: url("/img/cadastroLogin.jpg");
+    background-color: rgb(221, 189, 250);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#fundoFormulario{
+    background-color: rgba(0, 0, 0, 0);
+    margin: 30px;
+    width: 50%;
+    margin-left: 30%;
+}
+
+#fundoCadastroLogin{
+    background-color: rgba(255, 255, 255, 0.596);
+    margin: 30px;
+    width: 50%;
+    margin-left: 30%;
+}
+
+#formulario{
+    background-color: rgba(247, 247, 247, 0.787);
+    border: none;
+}
+
+#formCadastroLogin{
+    background-color: rgba(247, 247, 247, 0);
+    border: none;
+}
+
+#btEntrar{
+    
+    width: 150px;
+}
+
+#btEntrar,#btRecuperarSenha,#btPrimeiroAcesso{
+    padding: 10px;
+    width: 150px;
+    margin-top: 5px;
+}
+
+input[type="text"], input[type="password"]{
+    background-color: rgba(5, 126, 231, 0);
+}
+
+input[type="text"]::placeholder, input[type="password"]::placeholder{
+    color: rgb(0, 0, 0);
+}
+
+#olho{
+    cursor: pointer;
+}
+
+#obrigatorio{
+    color: tomato;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 70%;
+
+}
+
+#fundoCard{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 5%;
+    
+
+}
+#btMenu{
+    width: 140px; 
+    margin-left: 10px;
+    align-items: center;
+} 
+#imgCards{
+    width: 250px;
+    /* padding: 12px; */
+}
